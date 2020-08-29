@@ -6,7 +6,7 @@ end
 
 def create_an_array
   
-  [ earth wind fire water]
+  ["earth," "wind," "fire," "water"]
   
 end
 
